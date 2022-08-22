@@ -1,0 +1,6 @@
+joblib==1.1.0
+matplotlib==3.5.3
+numpy==1.23.2
+scikit_learn==1.1.2
+SoundFile==0.10.3.post1
+torchaudio==0.12.1+cu113
